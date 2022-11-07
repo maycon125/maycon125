@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maycon125
-- 👀 Estou enteresado em aprender.
+- 👀 Estou interesado em aprender.
 - 🌱 Estou aprendendo computaçao.
 - 💞️ Colaboro com o aprendizado.
 - 📫 maycon.viapiana@escola.pr.gov.br
